@@ -85,9 +85,7 @@ chmod +x indargen.py
 # Run it
 python3 indargen.py
 
-###╔═══════════════════════════════════════╗
-║         🔥 SELECT MODE 🔥            ║
-╚═══════════════════════════════════════╝
+###    🔥 SELECT MODE 🔥  
 
 [1] 📋 INTERACTIVE MODE    - Full victim profiling (30+ fields)
 [2] ⚡ QUICK MODE          - Fast generation (minimal inputs)
