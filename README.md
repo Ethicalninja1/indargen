@@ -76,7 +76,7 @@ Instead of relying on generic rockyou-style wordlists, IndarGen crafts passwords
 
 ```bash
 # Clone the repository
-git clone https://github.com/indar/indargen.git
+git clone https://github.com/Ethicalninja1/indargen.git
 cd indargen
 
 # Make the script executable
